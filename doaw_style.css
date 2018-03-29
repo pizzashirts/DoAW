@@ -1,7 +1,7 @@
 body {
   color: #444;
   font-family: 'Droid Sans', sans-serif;
-  background-image: url(grungus.png);
+  background: url(images/grungus.png);
 }
 
 header {
